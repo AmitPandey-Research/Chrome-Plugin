@@ -116,11 +116,11 @@ The related files (popup.html, popup.js and popup.css) involve with the creation
 
 <br>
 
-<a href = "#"><center><img src = "ui1.png" align="center" height="450" width="275" ></center></a>
+<a href = "#"><center><img src = "ui1.png" align="center" height="450" width="315" ></center></a>
 
 <br>
 
-<a href= "#"><img src="ui2.png" height="135" width="250" ></a> <a href= "#"><img src="ui3.png" align="right" height="135" width="250"></a>
+<a href= "#"><img src="ui2.png" height="200" width="375" ></a> <a href= "#"><img src="ui3.png" align="right" height="200" width="375"></a>
 <br>
 
 
